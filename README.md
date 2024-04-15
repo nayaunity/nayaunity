@@ -1,7 +1,6 @@
 # 👋🏾 Hi, I'm Nyaradzo (Naya) Bere!
 
 📧 **Email:** NayaUnityBere@gmail.com  
-📞 **Phone:** 720-629-8925  
 
 ## 🌟 About Me
 Hi! I’m Naya, a iOS engineer who loves turning exciting ideas into real-life innovations. With a love for mobile app development and a passion for crafting engaging user experiences, I find joy in bridging design and technology.
