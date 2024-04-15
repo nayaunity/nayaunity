@@ -40,6 +40,6 @@ I'm drawn to opportunities that promote keeping human connection magical. I'm ex
 
 ---
 
-🔗 **LinkedIn:** [YourLinkedIn](http://linkedin.com/in/theblackfemaleengineer)  
-👨‍💻 **GitHub:** [YourGitHub](http://github.com/nayaunity)
+🔗 **LinkedIn:** [Let's Connect!](http://linkedin.com/in/theblackfemaleengineer)  
+👨‍💻 **GitHub:** [View My Projects](http://github.com/nayaunity)
 
