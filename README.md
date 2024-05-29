@@ -5,7 +5,7 @@
 Hi! I’m Naya, a software engineer who loves turning exciting ideas into real-life innovations. With a love for web and mobile app development and a passion for crafting engaging user experiences, I find joy in bridging design and technology.
 
 ## 🔧 Technical Skills
-- **Programming Languages:** `JavaScript`, `Python`, `Ruby`, `Go`, `HTML/CSS`, `SQL`
+- **Programming Languages:** `Swift`, `JavaScript`, `Python`, `Ruby`, `Go`, `HTML/CSS`, `SQL`
 
 ## 💼 Experience
 
