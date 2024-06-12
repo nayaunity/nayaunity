@@ -1,5 +1,5 @@
 
-# 👋🏾 Hi, I'm Nyaradzo (Naya) Bere!
+# 👩🏾‍💻 Hi, I'm Nyaradzo (Naya) Bere!
 
 ## 🌟 About Me
 Hi! I’m Naya, a software engineer who loves turning exciting ideas into real-life innovations. With a love for web and mobile app development and a passion for crafting engaging user experiences, I find joy in bridging design and technology.
@@ -12,12 +12,17 @@ Hi! I’m Naya, a software engineer who loves turning exciting ideas into real-l
 ### Comcast NBCUniversal
 🚀 **CORE Tech Associate**  
 _August 2021 - July 2023_  
-From improving accessibility to enhancing user interaction, I led initiatives that made digital environments more inclusive and engaging.
-
-### DreamWorks Animation Studios
-🎨 **Software Engineer**  
-_August 2021 - August 2022_  
-Developed a comprehensive project management tool that transformed how teams interact with creative content.
+* Ensured a consistent and cohesive user interface across all of Xfinity’s mobile apps by collaborating
+closely with the design team, resulting in a unified user experience that improved customer satisfaction
+scores by 25%
+* Designed and developed 5 dark-mode pages for the user portal, leveraging SwiftUI and UIKit to enhance
+user experience and accessibility, leading to a 40% increase in user engagement and a 15% decrease in
+user-reported issuesFrom improving accessibility to enhancing user interaction, I led initiatives that made digital environments more inclusive and engaging
+* Collaborated with cross-functional product partners (product managers, designers, researchers, and quality assurance) to integrate third-party services into the core product, including payment processing systems and advanced search functionality
+* Improved web application performance by 47% through advanced caching techniques and database optimizations 
+* Created user flows, wireframes, and user interface mockups/prototypes to craft user-centered solutions to managers across 15+ teams
+* Owned and led the development of a critical web app integrating Unity’s SyncSketch platform, significantly enhancing project management capabilities for over 100 managers and artists
+* Increased the Production Engineering team’s availability by 12% through automating the monitoring of data and financial resources on digital projects
 
 ## 🎓 Education
 **University of Colorado at Boulder** - BS in Business Administration, Finance & Accounting  
